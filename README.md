@@ -1,0 +1,11 @@
+This is my Google Data Analytics Capstone project. The task was to compare how Cyclistic’s Ride Share members and casual riders behave and identify differences that could support membership growth. 
+
+A simple, surface‑level analysis showed clear behavioural differences between the two groups, but it did not reveal whether converting casual riders to members would help Cyclistic financially. This gap led to an extended analysis that incorporated revenue modelling, infrastructure patterns, and predictive modelling.
+
+Using 5.4 million trips from December 2024 to November 2025, the analysis confirms a strong behavioural divide. Members take short, predictable weekday trips that match commuting patterns and remain stable throughout the year. Casual riders take longer, more variable trips, with heavy peaks on weekends and during summer, especially around lakefront and leisure destinations.
+
+At first glance, these differences suggest that some casual riders, particularly those who behave like commuters, might be good candidates for membership. However, the extended revenue analysis shows that this assumption is misleading. Many casual riders spend more than the annual membership fee, but only by a small amount. When these riders convert to membership, Cyclistic loses more casual revenue than it gains in membership fees. This reveals a key insight: the current membership price is already tightly optimised and set so low that conversion of casual users reduces revenue rather than increase revenue. Membership supports loyalty and predictable usage, but under current pricing it is not a financial growth lever.
+
+Infrastructure and hotspot analysis shows two distinct station ecosystems: commuter‑focused downtown corridors and leisure‑focused lakefront areas. Predictive modelling reinforces the behavioural divide, with trip duration, season, and time of day acting as the strongest signals of rider type.
+
+Together, these findings point to a clear strategy. Cyclistic should review its membership pricing, strengthen operations in both commuter and leisure zones, and base marketing and operational decisions on behavioural evidence rather than assumptions. With a more accurate understanding of rider behaviour and the financial impact of conversion, Cyclistic can improve system performance, protect revenue, and plan for long‑term growth.
